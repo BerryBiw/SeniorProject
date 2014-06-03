@@ -1,0 +1,21 @@
+.container {
+    padding-top: 20px;
+    margin-left: 80px;
+    width: 1000px;
+}
+
+.form-horizontal {
+    width: 100%;
+}
+
+input[type="text"] {
+    height: 30px;
+}
+
+.navbar .nav > li > a {
+    color: #000000;
+}
+
+.form-horizontal .control-label {
+    text-align: left;
+}
